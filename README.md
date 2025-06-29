@@ -2,7 +2,7 @@
 > Long live the old-school programmers who still use their brain! 🧠
 >
 <hr>
-<p>All you gots to do is run 🏃</p>
+<p>All you got to do is run 🏃</p>
 
     git clone https://github.com/xWhaler/wezterm-config.git ~/.config/wezterm
 
